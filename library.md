@@ -6,7 +6,7 @@ permalink: /library/
 
 ບັນດາໄລບຣາຣີທີ່ນຳໃຊ້ໃນການພັດທະນາແລະຮຽນຮູ້ທາງດ້ານ Machine Leaning ປະກອບມີ: 
 
-1. Scikit-learn 
+1. <a href="https:\\www.google.com">Scikit-learn</a>
 2. TensorFlow
 3. Caffe
 4. Keras

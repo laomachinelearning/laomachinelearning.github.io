@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Laomachinelearning
-author: Yous
+#author: Yous
 description: Lao community for Machine Learning and Deep Learning ຊຸມຊົນຮຽນຮູ້ machine learning ແລະ deep learning ຂອງລາວ.
 #baseurl: "/whiteglass" # the subpath of your site, e.g. /blog
 url: "https://laomachinelearning.github.io/" # the base hostname & protocol for your site, e.g. http://example.com

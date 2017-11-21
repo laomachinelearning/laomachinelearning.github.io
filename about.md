@@ -238,3 +238,6 @@ To enable Google Analytics, add the following lines to your Jekyll site:
 ``` yaml
 google_analytics: UA-NNNNNNNN-N
 ```
+
+Scikit-learn:
+ດາວໂຫລດຈາກລິ້ງຂ້າງລຸ່ມນີ້

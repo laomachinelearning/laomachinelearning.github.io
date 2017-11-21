@@ -2,6 +2,6 @@
 # pages in order as they should show up.
 main:
   - title: "Libraries"
-    url: /about/
+    url: /library/
   - title: "Archives"
     url: /archives/
